@@ -1,0 +1,238 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 1440px;
+    padding: 0 100px;
+    margin: 0 auto;
+}
+
+.header-parents{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-right{
+    gap: 30px;
+    display: flex;
+}
+
+a span{
+    color: black;
+}
+
+a{
+    color: gray;
+}
+
+.header-right a{
+    text-decoration: none;
+}
+
+.header-right a:hover{
+    color: black;
+}
+
+
+.header-right span:hover{
+    color: gray;
+}
+
+.flex-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 30px;
+}
+
+.left h1{
+    font-size: 50px;
+}
+
+.left p{
+    line-height: 25px;
+    color: gray;
+}
+
+.left button{
+    width: 50%;
+    height: 50px;
+    margin-top: 30px;
+    border-radius: 50px;
+}
+
+.left button:hover{
+    background-color: rgb(26, 146, 221);
+    color: white;
+}
+
+
+img{
+    margin-top: 50px;
+}
+
+.container1{
+    max-width: 1440px;
+    padding: 0 100px;
+    margin: 0 auto;
+}
+
+h2{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 40px;
+}
+
+.p p{
+    text-align: center;
+    margin-top: 40px;
+}
+
+.logo{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 70px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+
+
+.logo1{
+    width: 22%;
+    background-color: rgb(177, 167, 167);
+    padding: 30px;
+    border-radius: 30px;
+    margin-top: 40px;
+}
+
+.logo2{
+    width: 22%;
+    background-color:  rgb(177, 167, 167);
+    padding: 30px;
+    border-radius: 30px;
+    margin-top: 40px;
+}
+.logo3{
+    width: 22%;
+    background-color:  rgb(177, 167, 167);
+    padding: 30px;
+    border-radius: 30px;
+    margin-top: 40px;
+}
+.logo4{
+    width: 22%;
+    background-color:  rgb(177, 167, 167);
+    padding: 30px;
+    border-radius: 30px;
+    margin-top: 40px;
+}
+.logo5{
+    width: 22%;
+    background-color:  rgb(177, 167, 167);
+    padding: 30px;
+    border-radius: 30px;
+    margin-top: 40px;
+}
+.logo6{
+    width: 22%;
+    background-color:  rgb(177, 167, 167);
+    padding: 30px;
+    border-radius: 30px;
+    margin-top: 40px;
+}
+
+h3{
+    margin-top: 30px;
+}
+
+.logo1 p{
+    margin-top: 30px;
+    line-height: 25px;
+    color: rgb(56, 54, 54);
+}
+
+.logo2 p{
+    margin-top: 30px;
+    line-height: 25px;
+    color: rgb(56, 54, 54);
+}
+
+.logo3 p{
+    margin-top: 30px;
+    line-height: 25px;
+    color: rgb(56, 54, 54);
+}
+
+.logo4 p{
+    margin-top: 30px;
+    line-height: 25px;
+    color: rgb(56, 54, 54);
+}
+
+.logo5 p{
+    margin-top: 30px;
+    line-height: 25px;
+    color: rgb(56, 54, 54);
+}
+
+.logo6 p{
+    margin-top: 30px;
+    line-height: 25px;
+    color: rgb(56, 54, 54);
+}
+
+
+.logo1:hover{
+    background-color: rgb(80, 80, 235);
+    color: white;
+}
+
+p:hover{
+    color: white;
+}
+
+.logo2:hover{
+    background-color: rgb(80, 80, 235);
+    color: white;
+}
+.logo3:hover{
+    background-color: rgb(80, 80, 235);
+    color: white;
+}
+.logo4:hover{
+    background-color: rgb(80, 80, 235);
+    color: white;
+}
+.logo5:hover{
+    background-color: rgb(80, 80, 235);
+    color: white;
+}
+.logo6:hover{
+    background-color: rgb(80, 80, 235);
+    color: white;
+}
+
+.b{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.b button{
+    width: 25%;
+    height: 50px;
+    margin-top: 40px;
+    border-radius: 50px;
+    border: 2px solid rgb(113, 113, 214);
+    color: rgb(113, 113, 214);
+}
+
+.b button:hover{
+    background-color:rgb(113, 113, 214);
+    color: white;
+}
